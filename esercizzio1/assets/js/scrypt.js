@@ -1,4 +1,4 @@
-class User {
+/* class User {
   constructor(firstName, lastName, age, location) {
     this.firstName = firstName;
     this.lastName = lastName;
@@ -19,4 +19,4 @@ class User {
 const utentex = new User("valentino", "rossi", 45, "monza");
 const utentey = new User("Giovanni", "D'Anna", 26, "Cirignano");
 
-utentex.confronto(utentey);
+utentex.confronto(utentey); */
